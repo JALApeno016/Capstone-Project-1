@@ -38,10 +38,14 @@ This project intentionally avoids styling and scripting to focus on HTML fundame
 📂 Project Structure
 
   ├── index.html
+  
   ├── Public
+  
       ├── Contact.html
+      
       └── Hobbies.html
   └── assets/Images
+  
       └── Jill_Grad_Pic.jpg
       
 🚀 How to Run the Project
