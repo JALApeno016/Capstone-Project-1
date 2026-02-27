@@ -36,6 +36,7 @@ The goal of this project is to practice semantic HTML, proper document structure
 This project intentionally avoids styling and scripting to focus on HTML fundamentals.
 
 📂 Project Structure
+
   ├── index.html
   ├── Public
       ├── Contact.html
